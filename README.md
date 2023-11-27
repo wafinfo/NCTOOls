@@ -39,7 +39,7 @@ ResourceManagerServlet 反序列化
 
 ### 使用手册
 
-(NC综合漏洞利用工具)[https://mp.weixin.qq.com/s/WlDb65RxzNYlEmdXdcSLSA]
+[NC综合漏洞利用工具](https://mp.weixin.qq.com/s/WlDb65RxzNYlEmdXdcSLSA)
 
 ## 👑 更新记录
 
