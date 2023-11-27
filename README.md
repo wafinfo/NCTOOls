@@ -37,6 +37,10 @@ ResourceManagerServlet 反序列化
 
 ![image-20231126142553814](README/image-20231126142553814.png)
 
+### 使用手册
+
+(NC综合漏洞利用工具)[https://mp.weixin.qq.com/s/WlDb65RxzNYlEmdXdcSLSA]
+
 ## 👑 更新记录
 
 - v1.0 2023/11/27
